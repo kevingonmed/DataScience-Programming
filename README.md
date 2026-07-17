@@ -1,18 +1,21 @@
-# BYUI DS Portfolio Template
-## Building a Quarto Portfolo
+# Kevin Gonzalez — Data Science Portfolio
 
-A template for a portfolio developed with Quarto and hosted on GitHub.
+Public portfolio website for personal and professional data science / software projects.
 
-This is all configured so you only need to edit the source files in Quarto (.qmd). The website is generated and hosted automatically by GitHub.
+**Live site:** https://kevingonmed.github.io/DataScience-Programming/  
+**Resume page (Canvas deliverable):** https://kevingonmed.github.io/DataScience-Programming/resume.html
 
-## Using this template
+Built with Quarto. Publish from the `docs/` folder on the `main` branch (GitHub Pages).
 
-1. Click on green button "Use this Tempalte" -> "Create a new Repo"
+## Local workflow
 
-1. Choose a name for your repository
+```bash
+quarto render
+git add .
+git commit -m "Update portfolio"
+git push
+```
 
-1. Important: check 'Include all branches' when creating the repository (because we will need the gh-pages branch to host the website).
+## Note
 
-1. Once your repo is created, remember to update the links to your GitHub repo in _quarto.yml, replacing every instance 'your_name'.
-
-1. The first time you publish to your repo use this command line string `quarto publish gh-pages` in the vs code terminal.
+This portfolio intentionally does **not** include DS250 course homework. It highlights personal projects, hackathons, and professional experience.

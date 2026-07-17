@@ -1,10 +1,15 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Full Stack"
+subtitle: "End-to-end applications and APIs"
 ---
 
-# Title 1 Header
-## Title 2 Header
+Full-stack projects where I own the frontend, backend, and data layer.
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+## Projects (newest first)
+
+| Date | Project | Stack |
+|------|---------|--------|
+| Nov 2024 | [Rexy's Voice](Full_Stack/project1.qmd) | Node.js, Express, MongoDB, JavaScript, REST APIs |
+| 2024 | [Course Recommendation Web App](Full_Stack/project2.qmd) | JavaScript, full-stack web |
+
+These projects focus on user interaction data, APIs, and usable interfaces — not classroom homework.

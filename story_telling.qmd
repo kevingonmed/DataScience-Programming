@@ -1,10 +1,17 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Story Telling"
+subtitle: "Communicating insights clearly"
 ---
 
-# Title 1 Header
-## Title 2 Header
+A good analysis only matters if someone can act on it. This section focuses on visuals, narrative, and stakeholder-ready summaries.
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+## Focus areas
+
+- Matching chart type to the question (bars, lines, annotations)
+- Clear titles, axis labels, and callouts
+- Short written takeaways for decision makers
+- Reproducible reports with Quarto
+
+## Projects
+
+Storytelling project posts will be added here as I publish personal work.

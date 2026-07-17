@@ -1,10 +1,17 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Data Cleansing"
+subtitle: "Preparing messy data for analysis"
 ---
 
-# Title 1 Header
-## Title 2 Header
+Data cleansing is the foundation of trustworthy analytics. In this section I document personal projects where I turn incomplete, inconsistent, or poorly structured data into analysis-ready tables.
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+## Focus areas
+
+- Handling missing values and sentinel codes (`N/A`, `-999`, empty strings)
+- Standardizing categories and recoding text to numbers
+- Validating joins and duplicate records
+- Documenting cleaning decisions so results are reproducible
+
+## Projects
+
+Project write-ups will be added here as I publish personal cleansing work. Placeholder pages remain available under this section for future posts.

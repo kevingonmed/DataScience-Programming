@@ -1,89 +1,112 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kevin Gonzalez — Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Kevin Gonzalez
+Software Engineering student | Data Analytics · Full-Stack · AI Systems
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:gon22043@byui.edu">gon22043@byui.edu</a>
+| <a href="tel:4254108570">(425) 410-8570</a>
+| <a href="https://linkedin.com/in/kevin-gonzalez-">LinkedIn</a>
+| <a href="https://github.com/kevingonmed">GitHub</a>
+| Rexburg, ID
 </div>
 
 
-## Currently
+## Summary
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Software Engineering student with experience in web analytics, structured data processing, full-stack development, Python, JavaScript, C++, SQL, REST APIs, and cloud-based systems. Strong focus on debugging, reporting, and building reliable technical solutions.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Jan 2024 – Apr 2028`
+__B.S. in Software Engineering__ — Brigham Young University–Idaho, Rexburg, ID
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- GPA: 3.8
+- Society of Artificial Intelligence
+- Coursework: Data Structures and Algorithms, Cloud Computing, Databases, SQL, Linux Systems, Algorithm Design, Software Development, JavaScript, Python
 
 
+## Experience
 
-## Awards
+`2026 – Present`
+__Web Analytics Integration Programmer__ — Brigham Young University–Idaho, Rexburg, ID
 
-`2012`
-President, *Royal Society*, London, UK
+- Implemented and validated web analytics tracking across digital experiences, ensuring accurate interpretation of user interaction data.
+- Analyzed user behavior data and generated reports to identify inconsistencies, trends, and navigation patterns.
+- Verified tracking accuracy through structured testing and debugging, improving reliability of analytics reporting.
+- Collaborated with analysts and technical teams to document findings and maintain organized reporting processes.
 
-Associate, *French Academy of Science*, Paris, France
+`Aug 2024 – Present`
+__Assistant Network Engineer__ — Brigham Young University–Idaho, Rexburg, ID
 
+- Configured and activated over 150 Ethernet switch ports across 10+ campus buildings, ensuring network availability for academic and administrative operations.
+- Resolved 40+ system incidents using monitoring, logging, structured debugging, and root cause analysis, reducing downtime by 30%.
+- Maintained infrastructure supporting 2,000+ devices across distributed network systems, improving reliability and scalability.
+- Collaborated with IT teams to document issues, validate fixes, and improve system support processes.
 
+`Oct 2022 – Feb 2023`
+__Assistant Project Manager__ — Brilla Fest, Mexico City, Mexico
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Managed logistics for a team of 30+ personnel, including shift scheduling, task delegation, and real-time troubleshooting, achieving 100% staffing coverage and reducing delays by 20%.
+- Monitored and optimized a budget of $100,000+ MXN, tracking expenditures and reallocating resources to high-traffic attractions, improving guest satisfaction ratings by 15%.
 
 
-## Occupation
+## Projects
 
-`1600`
-__Royal Mint__, London
+`Feb 2026`
+__PromptTrace__ — Hackathon Project | Python, AWS S3, AWS CloudWatch, GitHub Copilot, MCP
 
-- Warden
-- Minted coins
+- Built an AI-driven system using Python and AWS services to capture and analyze 100+ interaction events per session.
+- Designed pipelines to evaluate prompt quality, iteration behavior, and developer decision patterns in AI-assisted workflows.
+- Integrated GitHub Copilot and MCP to simulate real-world human–AI collaboration environments.
+- Delivered a working prototype under hackathon constraints, demonstrating rapid iteration and end-to-end development.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Mar 2026`
+__Apollo 11 Simulator__ — C++ Project | C++, OOP, Unit Testing
+
+- Engineered a simulation system modeling 5+ real-time variables, improving understanding of system behavior and algorithmic problem-solving.
+- Designed a modular object-oriented architecture with 10+ components to support maintainability and isolated testing.
+- Developed unit tests to validate simulation accuracy and reduce logic defects during iterative development.
+
+`Nov 2024`
+__Rexy's Voice__ — Hackathon Project | Node.js, Express, MongoDB, JavaScript, REST APIs
+
+- Developed a full-stack application using Node.js, Express, and MongoDB to support structured user interaction and behavioral data analysis.
+- Implemented frontend tracking using JavaScript to capture engagement patterns and improve visibility into user experience.
+- Designed REST APIs to process and aggregate user-generated data into actionable metrics.
+
+`2024`
+__Course Recommendation Web App__ — Hackathon Project | JavaScript, Full-Stack
+
+- Engineered a full-stack web application to recommend courses, implementing features, testing functionality, and resolving defects.
+- Designed and implemented user-facing features using JavaScript, enhancing usability and interaction.
 
 
+## Skills
 
-<!-- ### Footer
+__Languages:__ Python, JavaScript, C++, C#, SQL
 
-Last updated: May 2013 -->
+__Frontend:__ HTML, CSS, DOM manipulation, Responsive UI design
+
+__Backend:__ Node.js, Express, REST APIs, MongoDB
+
+__Cloud & Systems:__ AWS (S3, CloudWatch), Linux, Distributed systems
+
+__Data & AI:__ Structured data processing, Prompt evaluation, Web analytics, User behavior analysis, Reporting
+
+__Tools:__ Git, GitHub, GitHub Copilot, MCP, Debugging, Testing
+
+__Core:__ Full-stack development, Debugging, Unit testing, Troubleshooting, Root cause analysis, SDLC, Documentation, Team collaboration
+
+
+## Volunteer Service
+
+`Aug 2020 – Aug 2022`
+__Missionary__ — The Church of Jesus Christ of Latter-day Saints, Tuxtla Gutiérrez, Mexico
+
+- Led and trained over 50 volunteers across multiple regions, delivering workshops focused on effective communication, instructional techniques, and cultural adaptation.
+- Developed goal-setting systems to increase team productivity and personal engagement, contributing to a 30% improvement in outreach efficiency.

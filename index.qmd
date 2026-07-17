@@ -1,10 +1,38 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Kevin Gonzalez"
+subtitle: "Data Science & Software Engineering Portfolio"
 ---
 
-# Title 1 Header
-## Title 2 Header
+## About Me
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+I am a Software Engineering student at Brigham Young University–Idaho (GPA 3.8) with experience in **web analytics**, **full-stack development**, **networking infrastructure**, and **AI-assisted systems**. I care about building reliable tools, analyzing user behavior, and turning messy data into clear decisions.
+
+I currently work as a **Web Analytics Integration Programmer** and **Assistant Network Engineer** at BYU-Idaho, supporting campus digital experiences and network infrastructure for 2,000+ devices.
+
+## What You'll Find Here
+
+This portfolio showcases personal and professional projects outside of classroom homework, organized by skill area:
+
+| Section | Focus |
+|---------|--------|
+| [My Resume](resume.qmd) | Full resume with education, experience, projects, and skills |
+| [Data Cleansing](cleansing.qmd) | Cleaning messy data and preparing it for analysis |
+| [Data Exploration](exploration.qmd) | Finding patterns and insights in structured data |
+| [Story Telling](story_telling.qmd) | Communicating findings with clear visuals and narrative |
+| [Machine Learning](ml.qmd) | Models, AI workflows, and evaluation pipelines |
+| [Full Stack](full_stack.qmd) | End-to-end web applications and APIs |
+| [Competitions](competition.qmd) | Hackathons and challenge projects |
+
+## Featured Projects (newest first)
+
+1. **PromptTrace** (Feb 2026) — AI prompt evaluation pipeline on AWS  
+2. **Apollo 11 Simulator** (Mar 2026) — C++ real-time simulation with unit tests  
+3. **Rexy's Voice** (Nov 2024) — Full-stack Node.js / MongoDB app for user interaction data  
+4. **Course Recommendation Web App** (2024) — Full-stack course recommender  
+
+## Connect
+
+- Email: [gon22043@byui.edu](mailto:gon22043@byui.edu)
+- LinkedIn: [kevin-gonzalez-](https://linkedin.com/in/kevin-gonzalez-)
+- GitHub: [kevingonmed](https://github.com/kevingonmed)
+- Location: Rexburg, ID

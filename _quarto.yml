@@ -3,18 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "Your_Name - Data Science Portfolio"
+  title: "Kevin Gonzalez - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/username/username.github.io
-  #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
+  repo-url: https://github.com/kevingonmed/DataScience-Programming
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Kevin Gonzalez 2026©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: https://linkedin.com/in/kevin-gonzalez-
+      - icon: github
+        href: https://github.com/kevingonmed
 
   navbar:
     background: primary
@@ -37,9 +38,6 @@ website:
       - text: "Competitions"
         file: competition.qmd
   
-  # learn more about navication here https://quarto.org/docs/websites/website-navigation.html
-  # comment out any of the sections below to turn off the sidebar
-
   sidebar: 
     - title: "Data Cleansing"
       style: "docked"
@@ -96,7 +94,7 @@ website:
         - text: "Machine Learning"
           file: ml.qmd
         - text: "---"
-        - text: "Project 1"
+        - text: "PromptTrace"
           file: Machine_Learning/project1.qmd
         - text: "---"
         - text: "Project 2"
@@ -112,10 +110,10 @@ website:
         - text: "Full Stack"
           file: full_stack.qmd
         - text: "---"
-        - text: "Project 1"
+        - text: "Rexy's Voice"
           file: Full_Stack/project1.qmd
         - text: "---"
-        - text: "Project 2"
+        - text: "Course Recommendation App"
           file: Full_Stack/project2.qmd
         - text: "---"
     - title: "Competition"
@@ -125,7 +123,7 @@ website:
         - text: "Competition"
           file: competition.qmd
         - text: "---"
-        - text: "Project 1"
+        - text: "Apollo 11 Simulator"
           file: Competition/project1.qmd
         - text: "---"
         - text: "Project 2"
@@ -138,13 +136,8 @@ website:
   
 format:  
   html:
-    theme: #see this link to customize the theme with css (https://quarto.org/docs/output-formats/html-themes.html#dark-mode)
-      light: flatly # more themes can be found [here](https://quarto.org/docs/output-formats/html-themes.html)
+    theme:
+      light: flatly
       dark: darkly
-      #light: cosmo
-      #dark: [cosmo, theme-dark.scss]
     css: styles.css
     toc: true
-
-
-

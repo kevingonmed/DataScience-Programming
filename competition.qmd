@@ -1,10 +1,15 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Competitions & Challenges"
+subtitle: "Hackathons and technical challenges"
 ---
 
-# Title 1 Header
-## Title 2 Header
+Competitive and time-boxed projects that show rapid delivery under constraints.
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+## Projects (newest first)
+
+| Date | Project | Type |
+|------|---------|------|
+| Mar 2026 | [Apollo 11 Simulator](Competition/project1.qmd) | C++ systems / simulation |
+| Feb 2026 | PromptTrace (see Machine Learning) | Hackathon — AI / AWS |
+| Nov 2024 | Rexy's Voice (see Full Stack) | Hackathon — full-stack |
+| 2024 | Course Recommendation App (see Full Stack) | Hackathon — full-stack |
