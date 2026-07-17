@@ -1,0 +1,557 @@
+[
+  {
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
+    "title": "Story Telling",
+    "section": "",
+    "text": "A good analysis only matters if someone can act on it. This section focuses on visuals, narrative, and stakeholder-ready summaries.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#focus-areas",
+    "href": "story_telling.html#focus-areas",
+    "title": "Story Telling",
+    "section": "Focus areas",
+    "text": "Focus areas\n\nMatching chart type to the question (bars, lines, annotations)\nClear titles, axis labels, and callouts\nShort written takeaways for decision makers\nReproducible reports with Quarto",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#projects",
+    "href": "story_telling.html#projects",
+    "title": "Story Telling",
+    "section": "Projects",
+    "text": "Projects\nStorytelling project posts will be added here as I publish personal work.",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Kevin Gonzalez — Resume",
+    "section": "",
+    "text": "Software Engineering student | Data Analytics · Full-Stack · AI Systems\n\ngon22043@byui.edu | (425) 410-8570 | LinkedIn | GitHub | Rexburg, ID\n\n\n\nSoftware Engineering student with experience in web analytics, structured data processing, full-stack development, Python, JavaScript, C++, SQL, REST APIs, and cloud-based systems. Strong focus on debugging, reporting, and building reliable technical solutions.\n\n\n\nJan 2024 – Apr 2028 B.S. in Software Engineering — Brigham Young University–Idaho, Rexburg, ID\n\nGPA: 3.8\nSociety of Artificial Intelligence\nCoursework: Data Structures and Algorithms, Cloud Computing, Databases, SQL, Linux Systems, Algorithm Design, Software Development, JavaScript, Python\n\n\n\n\n2026 – Present Web Analytics Integration Programmer — Brigham Young University–Idaho, Rexburg, ID\n\nImplemented and validated web analytics tracking across digital experiences, ensuring accurate interpretation of user interaction data.\nAnalyzed user behavior data and generated reports to identify inconsistencies, trends, and navigation patterns.\nVerified tracking accuracy through structured testing and debugging, improving reliability of analytics reporting.\nCollaborated with analysts and technical teams to document findings and maintain organized reporting processes.\n\nAug 2024 – Present Assistant Network Engineer — Brigham Young University–Idaho, Rexburg, ID\n\nConfigured and activated over 150 Ethernet switch ports across 10+ campus buildings, ensuring network availability for academic and administrative operations.\nResolved 40+ system incidents using monitoring, logging, structured debugging, and root cause analysis, reducing downtime by 30%.\nMaintained infrastructure supporting 2,000+ devices across distributed network systems, improving reliability and scalability.\nCollaborated with IT teams to document issues, validate fixes, and improve system support processes.\n\nOct 2022 – Feb 2023 Assistant Project Manager — Brilla Fest, Mexico City, Mexico\n\nManaged logistics for a team of 30+ personnel, including shift scheduling, task delegation, and real-time troubleshooting, achieving 100% staffing coverage and reducing delays by 20%.\nMonitored and optimized a budget of $100,000+ MXN, tracking expenditures and reallocating resources to high-traffic attractions, improving guest satisfaction ratings by 15%.\n\n\n\n\nFeb 2026 PromptTrace — Hackathon Project | Python, AWS S3, AWS CloudWatch, GitHub Copilot, MCP\n\nBuilt an AI-driven system using Python and AWS services to capture and analyze 100+ interaction events per session.\nDesigned pipelines to evaluate prompt quality, iteration behavior, and developer decision patterns in AI-assisted workflows.\nIntegrated GitHub Copilot and MCP to simulate real-world human–AI collaboration environments.\nDelivered a working prototype under hackathon constraints, demonstrating rapid iteration and end-to-end development.\n\nMar 2026 Apollo 11 Simulator — C++ Project | C++, OOP, Unit Testing\n\nEngineered a simulation system modeling 5+ real-time variables, improving understanding of system behavior and algorithmic problem-solving.\nDesigned a modular object-oriented architecture with 10+ components to support maintainability and isolated testing.\nDeveloped unit tests to validate simulation accuracy and reduce logic defects during iterative development.\n\nNov 2024 Rexy’s Voice — Hackathon Project | Node.js, Express, MongoDB, JavaScript, REST APIs\n\nDeveloped a full-stack application using Node.js, Express, and MongoDB to support structured user interaction and behavioral data analysis.\nImplemented frontend tracking using JavaScript to capture engagement patterns and improve visibility into user experience.\nDesigned REST APIs to process and aggregate user-generated data into actionable metrics.\n\n2024 Course Recommendation Web App — Hackathon Project | JavaScript, Full-Stack\n\nEngineered a full-stack web application to recommend courses, implementing features, testing functionality, and resolving defects.\nDesigned and implemented user-facing features using JavaScript, enhancing usability and interaction.\n\n\n\n\nLanguages: Python, JavaScript, C++, C#, SQL\nFrontend: HTML, CSS, DOM manipulation, Responsive UI design\nBackend: Node.js, Express, REST APIs, MongoDB\nCloud & Systems: AWS (S3, CloudWatch), Linux, Distributed systems\nData & AI: Structured data processing, Prompt evaluation, Web analytics, User behavior analysis, Reporting\nTools: Git, GitHub, GitHub Copilot, MCP, Debugging, Testing\nCore: Full-stack development, Debugging, Unit testing, Troubleshooting, Root cause analysis, SDLC, Documentation, Team collaboration\n\n\n\nAug 2020 – Aug 2022 Missionary — The Church of Jesus Christ of Latter-day Saints, Tuxtla Gutiérrez, Mexico\n\nLed and trained over 50 volunteers across multiple regions, delivering workshops focused on effective communication, instructional techniques, and cultural adaptation.\nDeveloped goal-setting systems to increase team productivity and personal engagement, contributing to a 30% improvement in outreach efficiency."
+  },
+  {
+    "objectID": "resume.html#summary",
+    "href": "resume.html#summary",
+    "title": "Kevin Gonzalez — Resume",
+    "section": "",
+    "text": "Software Engineering student with experience in web analytics, structured data processing, full-stack development, Python, JavaScript, C++, SQL, REST APIs, and cloud-based systems. Strong focus on debugging, reporting, and building reliable technical solutions."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Kevin Gonzalez — Resume",
+    "section": "",
+    "text": "Jan 2024 – Apr 2028 B.S. in Software Engineering — Brigham Young University–Idaho, Rexburg, ID\n\nGPA: 3.8\nSociety of Artificial Intelligence\nCoursework: Data Structures and Algorithms, Cloud Computing, Databases, SQL, Linux Systems, Algorithm Design, Software Development, JavaScript, Python"
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Kevin Gonzalez — Resume",
+    "section": "",
+    "text": "2026 – Present Web Analytics Integration Programmer — Brigham Young University–Idaho, Rexburg, ID\n\nImplemented and validated web analytics tracking across digital experiences, ensuring accurate interpretation of user interaction data.\nAnalyzed user behavior data and generated reports to identify inconsistencies, trends, and navigation patterns.\nVerified tracking accuracy through structured testing and debugging, improving reliability of analytics reporting.\nCollaborated with analysts and technical teams to document findings and maintain organized reporting processes.\n\nAug 2024 – Present Assistant Network Engineer — Brigham Young University–Idaho, Rexburg, ID\n\nConfigured and activated over 150 Ethernet switch ports across 10+ campus buildings, ensuring network availability for academic and administrative operations.\nResolved 40+ system incidents using monitoring, logging, structured debugging, and root cause analysis, reducing downtime by 30%.\nMaintained infrastructure supporting 2,000+ devices across distributed network systems, improving reliability and scalability.\nCollaborated with IT teams to document issues, validate fixes, and improve system support processes.\n\nOct 2022 – Feb 2023 Assistant Project Manager — Brilla Fest, Mexico City, Mexico\n\nManaged logistics for a team of 30+ personnel, including shift scheduling, task delegation, and real-time troubleshooting, achieving 100% staffing coverage and reducing delays by 20%.\nMonitored and optimized a budget of $100,000+ MXN, tracking expenditures and reallocating resources to high-traffic attractions, improving guest satisfaction ratings by 15%."
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Kevin Gonzalez — Resume",
+    "section": "",
+    "text": "Feb 2026 PromptTrace — Hackathon Project | Python, AWS S3, AWS CloudWatch, GitHub Copilot, MCP\n\nBuilt an AI-driven system using Python and AWS services to capture and analyze 100+ interaction events per session.\nDesigned pipelines to evaluate prompt quality, iteration behavior, and developer decision patterns in AI-assisted workflows.\nIntegrated GitHub Copilot and MCP to simulate real-world human–AI collaboration environments.\nDelivered a working prototype under hackathon constraints, demonstrating rapid iteration and end-to-end development.\n\nMar 2026 Apollo 11 Simulator — C++ Project | C++, OOP, Unit Testing\n\nEngineered a simulation system modeling 5+ real-time variables, improving understanding of system behavior and algorithmic problem-solving.\nDesigned a modular object-oriented architecture with 10+ components to support maintainability and isolated testing.\nDeveloped unit tests to validate simulation accuracy and reduce logic defects during iterative development.\n\nNov 2024 Rexy’s Voice — Hackathon Project | Node.js, Express, MongoDB, JavaScript, REST APIs\n\nDeveloped a full-stack application using Node.js, Express, and MongoDB to support structured user interaction and behavioral data analysis.\nImplemented frontend tracking using JavaScript to capture engagement patterns and improve visibility into user experience.\nDesigned REST APIs to process and aggregate user-generated data into actionable metrics.\n\n2024 Course Recommendation Web App — Hackathon Project | JavaScript, Full-Stack\n\nEngineered a full-stack web application to recommend courses, implementing features, testing functionality, and resolving defects.\nDesigned and implemented user-facing features using JavaScript, enhancing usability and interaction."
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Kevin Gonzalez — Resume",
+    "section": "",
+    "text": "Languages: Python, JavaScript, C++, C#, SQL\nFrontend: HTML, CSS, DOM manipulation, Responsive UI design\nBackend: Node.js, Express, REST APIs, MongoDB\nCloud & Systems: AWS (S3, CloudWatch), Linux, Distributed systems\nData & AI: Structured data processing, Prompt evaluation, Web analytics, User behavior analysis, Reporting\nTools: Git, GitHub, GitHub Copilot, MCP, Debugging, Testing\nCore: Full-stack development, Debugging, Unit testing, Troubleshooting, Root cause analysis, SDLC, Documentation, Team collaboration"
+  },
+  {
+    "objectID": "resume.html#volunteer-service",
+    "href": "resume.html#volunteer-service",
+    "title": "Kevin Gonzalez — Resume",
+    "section": "",
+    "text": "Aug 2020 – Aug 2022 Missionary — The Church of Jesus Christ of Latter-day Saints, Tuxtla Gutiérrez, Mexico\n\nLed and trained over 50 volunteers across multiple regions, delivering workshops focused on effective communication, instructional techniques, and cultural adaptation.\nDeveloped goal-setting systems to increase team productivity and personal engagement, contributing to a 30% improvement in outreach efficiency."
+  },
+  {
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
+    "title": "PromptTrace",
+    "section": "",
+    "text": "PromptTrace is an AI-driven system that captures and analyzes developer–AI interaction events to evaluate prompt quality and iteration behavior.\nStack: Python · AWS S3 · AWS CloudWatch · GitHub Copilot · MCP",
+    "crumbs": [
+      "Machine Learning",
+      "PromptTrace"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project1.html#overview",
+    "href": "Machine_Learning/project1.html#overview",
+    "title": "PromptTrace",
+    "section": "",
+    "text": "PromptTrace is an AI-driven system that captures and analyzes developer–AI interaction events to evaluate prompt quality and iteration behavior.\nStack: Python · AWS S3 · AWS CloudWatch · GitHub Copilot · MCP",
+    "crumbs": [
+      "Machine Learning",
+      "PromptTrace"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project1.html#what-i-built",
+    "href": "Machine_Learning/project1.html#what-i-built",
+    "title": "PromptTrace",
+    "section": "What I built",
+    "text": "What I built\n\nCaptured and analyzed 100+ interaction events per session using Python and AWS services\nDesigned pipelines to evaluate prompt quality, iteration behavior, and developer decision patterns\nIntegrated GitHub Copilot and MCP to simulate real-world human–AI collaboration\nDelivered a working prototype under hackathon time constraints",
+    "crumbs": [
+      "Machine Learning",
+      "PromptTrace"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project1.html#skills-demonstrated",
+    "href": "Machine_Learning/project1.html#skills-demonstrated",
+    "title": "PromptTrace",
+    "section": "Skills demonstrated",
+    "text": "Skills demonstrated\nStructured data processing · Prompt evaluation · Cloud pipelines · Rapid prototyping · End-to-end delivery",
+    "crumbs": [
+      "Machine Learning",
+      "PromptTrace"
+    ]
+  },
+  {
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "Full Stack",
+    "section": "",
+    "text": "Full-stack projects where I own the frontend, backend, and data layer.",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#projects-newest-first",
+    "href": "full_stack.html#projects-newest-first",
+    "title": "Full Stack",
+    "section": "Projects (newest first)",
+    "text": "Projects (newest first)\n\n\n\nDate\nProject\nStack\n\n\n\n\nNov 2024\nRexy’s Voice\nNode.js, Express, MongoDB, JavaScript, REST APIs\n\n\n2024\nCourse Recommendation Web App\nJavaScript, full-stack web\n\n\n\nThese projects focus on user interaction data, APIs, and usable interfaces — not classroom homework.",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
+    "title": "Rexy’s Voice",
+    "section": "",
+    "text": "Rexy’s Voice is a full-stack application for structured user interaction and behavioral data analysis.\nStack: Node.js · Express · MongoDB · JavaScript · REST APIs · Git / GitHub",
+    "crumbs": [
+      "Full Stack",
+      "Rexy's Voice"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project1.html#overview",
+    "href": "Full_Stack/project1.html#overview",
+    "title": "Rexy’s Voice",
+    "section": "",
+    "text": "Rexy’s Voice is a full-stack application for structured user interaction and behavioral data analysis.\nStack: Node.js · Express · MongoDB · JavaScript · REST APIs · Git / GitHub",
+    "crumbs": [
+      "Full Stack",
+      "Rexy's Voice"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project1.html#what-i-built",
+    "href": "Full_Stack/project1.html#what-i-built",
+    "title": "Rexy’s Voice",
+    "section": "What I built",
+    "text": "What I built\n\nBuilt the application with Node.js, Express, and MongoDB to support interaction and behavioral analysis\nImplemented frontend tracking in JavaScript to capture engagement patterns\nDesigned REST APIs to process and aggregate user-generated data into actionable metrics\nCollaborated with a team using Git and GitHub for feature integration and deployment",
+    "crumbs": [
+      "Full Stack",
+      "Rexy's Voice"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project1.html#skills-demonstrated",
+    "href": "Full_Stack/project1.html#skills-demonstrated",
+    "title": "Rexy’s Voice",
+    "section": "Skills demonstrated",
+    "text": "Skills demonstrated\nFull-stack development · REST APIs · User interaction data · Team collaboration",
+    "crumbs": [
+      "Full Stack",
+      "Rexy's Voice"
+    ]
+  },
+  {
+    "objectID": "competition.html",
+    "href": "competition.html",
+    "title": "Competitions & Challenges",
+    "section": "",
+    "text": "Competitive and time-boxed projects that show rapid delivery under constraints.",
+    "crumbs": [
+      "Competitions",
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "competition.html#projects-newest-first",
+    "href": "competition.html#projects-newest-first",
+    "title": "Competitions & Challenges",
+    "section": "Projects (newest first)",
+    "text": "Projects (newest first)\n\n\n\nDate\nProject\nType\n\n\n\n\nMar 2026\nApollo 11 Simulator\nC++ systems / simulation\n\n\nFeb 2026\nPromptTrace (see Machine Learning)\nHackathon — AI / AWS\n\n\nNov 2024\nRexy’s Voice (see Full Stack)\nHackathon — full-stack\n\n\n2024\nCourse Recommendation App (see Full Stack)\nHackathon — full-stack",
+    "crumbs": [
+      "Competitions",
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competitions",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Exploration",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "Data Cleansing",
+    "section": "",
+    "text": "Data cleansing is the foundation of trustworthy analytics. In this section I document personal projects where I turn incomplete, inconsistent, or poorly structured data into analysis-ready tables.",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "cleansing.html#focus-areas",
+    "href": "cleansing.html#focus-areas",
+    "title": "Data Cleansing",
+    "section": "Focus areas",
+    "text": "Focus areas\n\nHandling missing values and sentinel codes (N/A, -999, empty strings)\nStandardizing categories and recoding text to numbers\nValidating joins and duplicate records\nDocumenting cleaning decisions so results are reproducible",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "cleansing.html#projects",
+    "href": "cleansing.html#projects",
+    "title": "Data Cleansing",
+    "section": "Projects",
+    "text": "Projects\nProject write-ups will be added here as I publish personal cleansing work. Placeholder pages remain available under this section for future posts.",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Exploration",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Exploration",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Competition/project1.html",
+    "href": "Competition/project1.html",
+    "title": "Apollo 11 Simulator",
+    "section": "",
+    "text": "A simulation system modeling real-time flight variables with a modular object-oriented design and unit tests.\nStack: C++ · Object-Oriented Programming · Unit Testing",
+    "crumbs": [
+      "Competitions",
+      "Apollo 11 Simulator"
+    ]
+  },
+  {
+    "objectID": "Competition/project1.html#overview",
+    "href": "Competition/project1.html#overview",
+    "title": "Apollo 11 Simulator",
+    "section": "",
+    "text": "A simulation system modeling real-time flight variables with a modular object-oriented design and unit tests.\nStack: C++ · Object-Oriented Programming · Unit Testing",
+    "crumbs": [
+      "Competitions",
+      "Apollo 11 Simulator"
+    ]
+  },
+  {
+    "objectID": "Competition/project1.html#what-i-built",
+    "href": "Competition/project1.html#what-i-built",
+    "title": "Apollo 11 Simulator",
+    "section": "What I built",
+    "text": "What I built\n\nModeled 5+ real-time variables to deepen algorithmic problem-solving and system behavior understanding\nDesigned a modular OOP architecture with 10+ components for maintainability and isolated testing\nWrote unit tests to validate simulation accuracy and reduce logic defects\nImproved performance and stability through iterative debugging and algorithm optimization",
+    "crumbs": [
+      "Competitions",
+      "Apollo 11 Simulator"
+    ]
+  },
+  {
+    "objectID": "Competition/project1.html#skills-demonstrated",
+    "href": "Competition/project1.html#skills-demonstrated",
+    "title": "Apollo 11 Simulator",
+    "section": "Skills demonstrated",
+    "text": "Skills demonstrated\nC++ · Simulation · Software architecture · Unit testing · Performance optimization",
+    "crumbs": [
+      "Competitions",
+      "Apollo 11 Simulator"
+    ]
+  },
+  {
+    "objectID": "Competition/project3.html",
+    "href": "Competition/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competitions",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "exploration.html",
+    "href": "exploration.html",
+    "title": "Data Exploration",
+    "section": "",
+    "text": "Exploration is how I learn what the data can (and cannot) answer before building models or dashboards.",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "exploration.html#focus-areas",
+    "href": "exploration.html#focus-areas",
+    "title": "Data Exploration",
+    "section": "Focus areas",
+    "text": "Focus areas\n\nGrouped summaries, proportions, and distributions\nFiltering and reshaping tables for clear comparisons\nVisual EDA with charts that match the question\nSpotting leakage, imbalance, and data quality issues early",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "exploration.html#projects",
+    "href": "exploration.html#projects",
+    "title": "Data Exploration",
+    "section": "Projects",
+    "text": "Projects\nPersonal exploration write-ups will live here. Use the sidebar to open individual project pages as they are published.",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project2.html",
+    "href": "Full_Stack/project2.html",
+    "title": "Course Recommendation Web App",
+    "section": "",
+    "text": "A full-stack web application that recommends courses based on user needs, built and tested under hackathon constraints.\nStack: JavaScript · Frontend · Backend",
+    "crumbs": [
+      "Full Stack",
+      "Course Recommendation App"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project2.html#overview",
+    "href": "Full_Stack/project2.html#overview",
+    "title": "Course Recommendation Web App",
+    "section": "",
+    "text": "A full-stack web application that recommends courses based on user needs, built and tested under hackathon constraints.\nStack: JavaScript · Frontend · Backend",
+    "crumbs": [
+      "Full Stack",
+      "Course Recommendation App"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project2.html#what-i-built",
+    "href": "Full_Stack/project2.html#what-i-built",
+    "title": "Course Recommendation Web App",
+    "section": "What I built",
+    "text": "What I built\n\nEngineered features end-to-end, including testing functionality and resolving defects\nDesigned and implemented user-facing features in JavaScript to improve usability and interaction",
+    "crumbs": [
+      "Full Stack",
+      "Course Recommendation App"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project2.html#skills-demonstrated",
+    "href": "Full_Stack/project2.html#skills-demonstrated",
+    "title": "Course Recommendation Web App",
+    "section": "Skills demonstrated",
+    "text": "Skills demonstrated\nFull-stack development · JavaScript · Testing · Debugging · UX focus",
+    "crumbs": [
+      "Full Stack",
+      "Course Recommendation App"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kevin Gonzalez",
+    "section": "",
+    "text": "I am a Software Engineering student at Brigham Young University–Idaho (GPA 3.8) with experience in web analytics, full-stack development, networking infrastructure, and AI-assisted systems. I care about building reliable tools, analyzing user behavior, and turning messy data into clear decisions.\nI currently work as a Web Analytics Integration Programmer and Assistant Network Engineer at BYU-Idaho, supporting campus digital experiences and network infrastructure for 2,000+ devices."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Kevin Gonzalez",
+    "section": "",
+    "text": "I am a Software Engineering student at Brigham Young University–Idaho (GPA 3.8) with experience in web analytics, full-stack development, networking infrastructure, and AI-assisted systems. I care about building reliable tools, analyzing user behavior, and turning messy data into clear decisions.\nI currently work as a Web Analytics Integration Programmer and Assistant Network Engineer at BYU-Idaho, supporting campus digital experiences and network infrastructure for 2,000+ devices."
+  },
+  {
+    "objectID": "index.html#what-youll-find-here",
+    "href": "index.html#what-youll-find-here",
+    "title": "Kevin Gonzalez",
+    "section": "What You’ll Find Here",
+    "text": "What You’ll Find Here\nThis portfolio showcases personal and professional projects outside of classroom homework, organized by skill area:\n\n\n\nSection\nFocus\n\n\n\n\nMy Resume\nFull resume with education, experience, projects, and skills\n\n\nData Cleansing\nCleaning messy data and preparing it for analysis\n\n\nData Exploration\nFinding patterns and insights in structured data\n\n\nStory Telling\nCommunicating findings with clear visuals and narrative\n\n\nMachine Learning\nModels, AI workflows, and evaluation pipelines\n\n\nFull Stack\nEnd-to-end web applications and APIs\n\n\nCompetitions\nHackathons and challenge projects"
+  },
+  {
+    "objectID": "index.html#featured-projects-newest-first",
+    "href": "index.html#featured-projects-newest-first",
+    "title": "Kevin Gonzalez",
+    "section": "Featured Projects (newest first)",
+    "text": "Featured Projects (newest first)\n\nPromptTrace (Feb 2026) — AI prompt evaluation pipeline on AWS\n\nApollo 11 Simulator (Mar 2026) — C++ real-time simulation with unit tests\n\nRexy’s Voice (Nov 2024) — Full-stack Node.js / MongoDB app for user interaction data\n\nCourse Recommendation Web App (2024) — Full-stack course recommender"
+  },
+  {
+    "objectID": "index.html#connect",
+    "href": "index.html#connect",
+    "title": "Kevin Gonzalez",
+    "section": "Connect",
+    "text": "Connect\n\nEmail: gon22043@byui.edu\nLinkedIn: kevin-gonzalez-\nGitHub: kevingonmed\nLocation: Rexburg, ID"
+  },
+  {
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "Machine Learning",
+    "section": "",
+    "text": "This section highlights projects where I build or evaluate intelligent systems — from prompt analysis pipelines to structured decision workflows.",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#projects-newest-first",
+    "href": "ml.html#projects-newest-first",
+    "title": "Machine Learning",
+    "section": "Projects (newest first)",
+    "text": "Projects (newest first)\n\n\n\nDate\nProject\nStack\n\n\n\n\nFeb 2026\nPromptTrace\nPython, AWS S3, CloudWatch, Copilot, MCP\n\n\n\nMore machine learning write-ups will be added here as I complete personal and society projects.",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project1.html",
+    "href": "Story_Telling/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 3"
+    ]
+  }
+]
